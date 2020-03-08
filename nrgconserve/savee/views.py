@@ -37,4 +37,4 @@ def main_home(request):
     }
 
     # Render the HTML template index.html with the data in the context variable
-    return render(request, 'Front End Elements/main_home.html', context=context)
+    return render(request, '3-main_home.html', context=context)
