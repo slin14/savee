@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 from rest_framework.decorators import api_view
-from .serializers import EnergySerializer
+from .serializers import EnergySerializer, houseSerializer
 from rest_framework.response import Response
 from django.shortcuts import render
 
@@ -24,16 +24,19 @@ def fetch_neighbourhood(request):
 
 @api_view(['get'])
 def fetch_rankings(request):
-    houses = house.objects.all().filter(logged_date="2020-02-20").order_by('-heat_use')
-    serializer = EnergySerializer(houses, many=True)
+    houses = house.objects.all().filter(logged_date="2020-02-20").order_by('-electricity_use')
+    serializer = houseSerializer(houses, many=True)
     return Response(serializer.data)
 
 
 def main_home(request):
     """View function for home page of site."""
+
+    field_name = 'electricity_use'
+    houses = house.objects.first()
     
     context = {
-        'energy_consumption' : house.objects.all().filter(house_name="house1",logged_date="2020-02-21")
+        'energy_consumption': getattr(houses, field_name)
     }
 
     # Render the HTML template index.html with the data in the context variable
