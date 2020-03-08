@@ -1,0 +1,30 @@
+/* Bigger Map */
+
+position: relative;
+width: 915px;
+height: 915px;
+overflow: scroll;
+
+
+
+/* your bulb */
+
+position: absolute;
+width: 16px;
+height: 27px;
+left: 766px;
+top: 236px;
+
+background: url(image.png);
+
+
+/* Rectangle */
+
+position: absolute;
+width: 1288px;
+height: 1288px;
+left: -402px;
+top: -210px;
+
+background: url(.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);

@@ -1,0 +1,681 @@
+/* Neighbourhood */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Home Page 2 */
+
+position: absolute;
+width: 375px;
+height: 812px;
+left: 0px;
+top: 0px;
+
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Home Page */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Background Blue */
+background: #F7FDFF;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 375px;
+height: 824px;
+left: 0px;
+top: 0px;
+
+/* Background Blue */
+background: #F7FDFF;
+
+
+/* Menu icon */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 15px;
+top: 49px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 15px;
+top: 49px;
+
+/* Dark Grey */
+border: 5px solid #727272;
+box-sizing: border-box;
+border-radius: 30px;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 30px;
+height: 0px;
+left: 30px;
+top: 68px;
+
+/* Dark Grey */
+border: 1px solid #727272;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 30px;
+height: 0px;
+left: 30px;
+top: 78px;
+
+/* Dark Grey */
+border: 1px solid #727272;
+
+
+/* Line 3 */
+
+position: absolute;
+width: 30px;
+height: 0px;
+left: 30px;
+top: 90px;
+
+/* Dark Grey */
+border: 1px solid #727272;
+
+
+/* Status Bar */
+
+position: absolute;
+width: 375px;
+height: 44px;
+left: 0px;
+top: 0px;
+
+
+
+/* Connections */
+
+position: absolute;
+width: 68px;
+height: 16px;
+left: 293px;
+top: 15px;
+
+
+
+/* Battery */
+
+position: absolute;
+width: 25px;
+height: 12px;
+right: 0px;
+top: 2px;
+
+
+
+/* Border */
+
+position: absolute;
+left: 0%;
+right: 12%;
+top: 2.78%;
+bottom: 2.78%;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+/* Black */
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 2.66667px;
+
+
+/* Cap */
+
+position: absolute;
+left: 92%;
+right: 2.67%;
+top: 33.33%;
+bottom: 33.33%;
+
+/* Black */
+background: #000000;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Capacity */
+
+position: absolute;
+left: 8%;
+right: 20%;
+top: 19.44%;
+bottom: 19.44%;
+
+/* Black */
+background: #000000;
+border-radius: 1.33333px;
+
+
+/* Wifi */
+
+position: absolute;
+left: 29.41%;
+right: 39.71%;
+top: 6.25%;
+bottom: 0%;
+
+
+
+/* Wifi */
+
+position: absolute;
+width: 15.33px;
+height: 11px;
+right: 3px;
+top: 1.33px;
+
+/* Black */
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 12.7%;
+right: 14.29%;
+top: 8.89%;
+bottom: 60%;
+
+background: #DADADA;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 25.4%;
+right: 26.98%;
+top: 33.33%;
+bottom: 42.22%;
+
+background: #DADADA;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 38.1%;
+right: 39.68%;
+top: 60%;
+bottom: 17.78%;
+
+background: #DADADA;
+
+
+/* Cellular Connection */
+
+position: absolute;
+width: 18px;
+height: 12px;
+right: 50px;
+top: 2px;
+
+
+
+/* Cellular Connection */
+
+position: absolute;
+width: 17px;
+height: 10.67px;
+right: 0.33px;
+top: 0.67px;
+
+/* Black */
+background: #000000;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 3.7%;
+right: 79.63%;
+top: 61.11%;
+bottom: 5.56%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 29.63%;
+right: 53.7%;
+top: 44.44%;
+bottom: 5.56%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 55.56%;
+right: 27.78%;
+top: 25%;
+bottom: 5.56%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 81.48%;
+right: 1.85%;
+top: 5.56%;
+bottom: 5.56%;
+
+background: #DADADA;
+
+
+/* Time */
+
+position: absolute;
+width: 56px;
+height: 23px;
+left: 21px;
+top: 8px;
+
+
+
+/* Time */
+
+position: absolute;
+height: 18px;
+left: 0.33px;
+right: 1.67px;
+top: calc(50% - 18px/2 + 3.5px);
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.333333px;
+
+/* Black */
+color: #000000;
+
+
+/* Frame 3 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+padding: 0px;
+
+position: absolute;
+width: 290px;
+height: 290px;
+left: 43px;
+top: 406px;
+overflow: scroll;
+
+
+
+/* Frame 1 */
+
+position: static;
+width: 290px;
+height: 290px;
+left: 0px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: center;
+margin: 10px 0px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 290px;
+height: 290px;
+left: 0px;
+top: 0px;
+
+background: url(.png);
+
+
+/* Your electricity consumption is ranked: */
+
+position: absolute;
+width: 5000px;
+height: 202px;
+left: 23px;
+top: 170px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+/* Black */
+color: #000000;
+
+
+/* Line 12 */
+
+position: absolute;
+left: 0.27%;
+right: -0.27%;
+top: 17.49%;
+bottom: 82.51%;
+
+/* Dark Grey */
+border: 1px solid #727272;
+
+
+/* image 6 */
+
+position: absolute;
+width: 16px;
+height: 27px;
+left: 476px;
+top: 328px;
+
+background: url(image.png);
+
+
+/* your bulb */
+
+position: absolute;
+width: 23.59px;
+height: 40px;
+left: 149px;
+top: 503px;
+
+background: url(image.png);
+
+
+/* Frame 4 */
+
+position: absolute;
+width: 23px;
+height: 27px;
+left: 141px;
+top: 600px;
+
+
+
+/* other bulb 2 */
+
+position: absolute;
+width: 23.7px;
+height: 40px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* other bulb 1 */
+
+position: absolute;
+width: 23.7px;
+height: 40px;
+left: 245px;
+top: 629px;
+
+background: url(image.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* other bulb 3 */
+
+position: absolute;
+width: 24px;
+height: 40px;
+left: 79px;
+top: 421px;
+
+background: url(image.png);
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 60px;
+height: 66px;
+left: 215px;
+top: 600px;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 250px;
+height: 115px;
+left: 98px;
+top: 248px;
+
+
+
+/* within 10 km */
+
+position: absolute;
+width: 250px;
+height: 29px;
+left: 98px;
+top: 291px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 30px;
+text-align: center;
+
+/* Black */
+color: #000000;
+
+
+/* within 1 km */
+
+position: absolute;
+width: 250px;
+height: 29px;
+left: 98px;
+top: 248px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 30px;
+text-align: center;
+
+/* Black */
+color: #000000;
+
+
+/* within 20 km */
+
+position: absolute;
+width: 250px;
+height: 29px;
+left: 98px;
+top: 334px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 30px;
+text-align: center;
+
+/* Black */
+color: #000000;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 34px;
+height: 114px;
+left: 69px;
+top: 248px;
+
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 70px;
+top: 330px;
+
+/* Dark Yellow */
+background: #FCDA83;
+/* Black */
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 34px;
+height: 112px;
+left: 69px;
+top: 248px;
+
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 69px;
+top: 290px;
+
+/* Dark Yellow */
+background: #FCDA83;
+/* Black */
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* Ellipse 11 */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 69px;
+top: 248px;
+
+/* Dark Yellow */
+background: #FCDA83;
+/* Black */
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* 1 */
+
+position: absolute;
+width: 11px;
+height: 21px;
+left: 80px;
+top: 253px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+/* Black */
+color: #000000;
+
+
+/* 4 */
+
+position: absolute;
+width: 10px;
+height: 17px;
+left: 79px;
+top: 295px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+/* Black */
+color: #000000;
+
+
+/* 15 */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 75px;
+top: 336px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+/* Black */
+color: #000000;
+
+
+/* Line 13 */
+
+position: absolute;
+width: 114px;
+height: 0px;
+left: 127px;
+top: 248px;
+
+/* Light Yellow */
+background: #FDF7C0;
+/* Light Yellow */
+border: 3px solid #FDF7C0;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(90deg);
