@@ -386,3 +386,15 @@ left: 89px;
 top: 109px;
 
 background: url(image.png);
+
+#screen_image{
+    position: relative;
+    z-index: 0;
+}
+
+#text  {
+    color: blue;
+    position: absolute;
+    top: 0px;
+    z-index: 3;
+}
