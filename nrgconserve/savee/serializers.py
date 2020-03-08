@@ -1,8 +1,8 @@
 from rest_framework.serializers import ModelSerializer
-from .models import roomEnergy
+from .models import house
 
 
 class EnergySerializer(ModelSerializer):
     class Meta:
-        model = roomEnergy
+        model = house
         fields = '__all__'

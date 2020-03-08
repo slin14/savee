@@ -15,9 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from savee.views import fetch_roomEnergy
+from savee.views import fetch_neighbourhood, fetch_rankings
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('fetch_roomEnergy/', fetch_roomEnergy),
+    path('fetch_house/', fetch_neighbourhood),
+    path('fetch_rankings/', fetch_rankings)
 ]
