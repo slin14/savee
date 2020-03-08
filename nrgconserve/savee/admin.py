@@ -3,6 +3,7 @@ from .models import house
 
 class HouseObjectsAdmin(admin.ModelAdmin):
     list_display = ('house_name', 'electricity_use', 'logged_date')
-
+    list_filter = ('house_name', 'electricity_use', 'logged_date')
+    fields = ['house_name', 'electricity_use', 'logged_date']
 # Register your models here.
 admin.site.register(house, HouseObjectsAdmin)
