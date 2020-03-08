@@ -33,7 +33,7 @@ def main_home(request):
     """View function for home page of site."""
 
     field_name = 'electricity_use'
-    houses = house.objects.first()
+    houses = house.objects.filter(house_name = 'house1', logged_date = '2020-02-21').get()
     
     context = {
         'energy_consumption': getattr(houses, field_name)
