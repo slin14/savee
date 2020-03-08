@@ -4,9 +4,10 @@ from django.db import models
 
 class house(models.Model):
     house_name = models.CharField(max_length=30)
-    heat_use = models.FloatField()
     electricity_use = models.FloatField()
     logged_date = models.DateField()
+
+
 
 
     
