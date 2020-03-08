@@ -14,11 +14,18 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
+from django.views.generic import RedirectView
+from django.conf.urls.static import static
+from django.conf import settings
+
 from savee.views import fetch_neighbourhood, fetch_rankings
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('fetch_house/', fetch_neighbourhood),
-    path('fetch_rankings/', fetch_rankings)
-]
+    path('fetch_rankings/', fetch_rankings),
+
+    path('savee/', include('savee.urls')),
+    path('', RedirectView.as_view(url='savee/', permanent=True)),
+] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
