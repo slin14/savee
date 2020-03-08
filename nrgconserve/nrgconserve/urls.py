@@ -15,7 +15,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from savee.views import fetch_roomEnergy
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('fetch_roomEnergy/', fetch_roomEnergy),
 ]
