@@ -1,0 +1,41 @@
+/* Map Pop-Up 3 */
+
+position: relative;
+width: 351px;
+height: 281px;
+
+/* Light Grey */
+background: #B1C8A5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* 127kWh */
+
+position: absolute;
+width: 220px;
+height: 169px;
+left: 66px;
+top: 32px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 30px;
+text-align: center;
+text-decoration-line: underline;
+
+color: #000000;
+
+
+
+/* image 11 */
+
+position: absolute;
+width: 77px;
+height: 131px;
+left: 137px;
+top: 70px;
+
+background: url(image.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
