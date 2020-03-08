@@ -1,0 +1,290 @@
+/* Home */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #F6FDFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Status Bar */
+
+position: absolute;
+width: 375px;
+height: 44px;
+left: 0px;
+top: 0px;
+
+
+
+/* Connections */
+
+position: absolute;
+width: 68px;
+height: 16px;
+left: 293px;
+top: 15px;
+
+
+
+/* Battery */
+
+position: absolute;
+width: 25px;
+height: 12px;
+right: 0px;
+top: 2px;
+
+
+
+/* Border */
+
+position: absolute;
+left: 0%;
+right: 12%;
+top: 2.78%;
+bottom: 2.78%;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+/* Black */
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 2.66667px;
+
+
+/* Cap */
+
+position: absolute;
+left: 92%;
+right: 2.67%;
+top: 33.33%;
+bottom: 33.33%;
+
+/* Black */
+background: #000000;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Capacity */
+
+position: absolute;
+left: 8%;
+right: 20%;
+top: 19.44%;
+bottom: 19.44%;
+
+/* Black */
+background: #000000;
+border-radius: 1.33333px;
+
+
+/* Wifi */
+
+position: absolute;
+left: 29.41%;
+right: 39.71%;
+top: 6.25%;
+bottom: 0%;
+
+
+
+/* Wifi */
+
+position: absolute;
+width: 15.33px;
+height: 11px;
+right: 3px;
+top: 1.33px;
+
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 12.7%;
+right: 14.29%;
+top: 8.89%;
+bottom: 60%;
+
+/* Black */
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 25.4%;
+right: 26.98%;
+top: 33.33%;
+bottom: 42.22%;
+
+/* Black */
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 38.1%;
+right: 39.68%;
+top: 60%;
+bottom: 17.78%;
+
+/* Black */
+background: #000000;
+
+
+/* Cellular Connection */
+
+position: absolute;
+width: 18px;
+height: 12px;
+right: 50px;
+top: 2px;
+
+
+
+/* Cellular Connection */
+
+position: absolute;
+width: 17px;
+height: 10.67px;
+right: 0.33px;
+top: 0.67px;
+
+/* Black */
+background: #000000;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 3.7%;
+right: 79.63%;
+top: 61.11%;
+bottom: 5.56%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 29.63%;
+right: 53.7%;
+top: 44.44%;
+bottom: 5.56%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 55.56%;
+right: 27.78%;
+top: 25%;
+bottom: 5.56%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 81.48%;
+right: 1.85%;
+top: 5.56%;
+bottom: 5.56%;
+
+background: #DADADA;
+
+
+/* Time */
+
+position: absolute;
+width: 56px;
+height: 23px;
+left: 21px;
+top: 8px;
+
+
+
+/* Time */
+
+position: absolute;
+height: 18px;
+left: 0.33px;
+right: 1.67px;
+top: calc(50% - 18px/2 + 3.5px);
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.333333px;
+
+/* Black */
+color: #000000;
+
+
+/* Click here to start */
+
+position: absolute;
+width: 127px;
+height: 69px;
+left: 124px;
+top: 616px;
+
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 127px;
+height: 69px;
+left: 124px;
+top: 616px;
+
+background: #F6FDFF;
+/* Black */
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* Start */
+
+position: absolute;
+width: 87px;
+height: 28px;
+left: 144px;
+top: 633px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 31px;
+line-height: 36px;
+text-align: center;
+letter-spacing: -0.333333px;
+
+/* Black */
+color: #000000;
+
+
+/* image 1 */
+
+position: absolute;
+width: 186px;
+height: 183px;
+left: 94px;
+top: 334px;
+
+background: url(image.png);
