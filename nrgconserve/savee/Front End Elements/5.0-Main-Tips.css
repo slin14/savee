@@ -1,0 +1,973 @@
+/* Tips */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 30 */
+
+position: absolute;
+width: 375px;
+height: 87px;
+left: 0px;
+top: 725px;
+
+background: #FDF7C0;
+
+
+/* Great Job! You’ve read 3 tips today! */
+
+position: absolute;
+width: 375px;
+height: 50px;
+left: 0px;
+top: 757px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 27px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Home Page 1 */
+
+position: absolute;
+width: 375px;
+height: 812px;
+left: 0px;
+top: 0px;
+
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Home Page */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F7FDFF;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 375px;
+height: 824px;
+left: 0px;
+top: 0px;
+
+/* Background Blue */
+background: #F7FDFF;
+
+
+/* Menu icon */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 15px;
+top: 49px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 15px;
+top: 49px;
+
+/* Dark Grey */
+border: 5px solid #727272;
+box-sizing: border-box;
+border-radius: 30px;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 30px;
+height: 0px;
+left: 30px;
+top: 68px;
+
+/* Dark Grey */
+border: 1px solid #727272;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 30px;
+height: 0px;
+left: 30px;
+top: 78px;
+
+/* Dark Grey */
+border: 1px solid #727272;
+
+
+/* Line 3 */
+
+position: absolute;
+width: 30px;
+height: 0px;
+left: 30px;
+top: 90px;
+
+/* Dark Grey */
+border: 1px solid #727272;
+
+
+/* Status Bar */
+
+position: absolute;
+width: 375px;
+height: 44px;
+left: 0px;
+top: 0px;
+
+
+
+/* Connections */
+
+position: absolute;
+width: 68px;
+height: 16px;
+left: 293px;
+top: 15px;
+
+
+
+/* Battery */
+
+position: absolute;
+width: 25px;
+height: 12px;
+right: 0px;
+top: 2px;
+
+
+
+/* Border */
+
+position: absolute;
+left: 0%;
+right: 12%;
+top: 2.78%;
+bottom: 2.78%;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+/* Black */
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 2.66667px;
+
+
+/* Cap */
+
+position: absolute;
+left: 92%;
+right: 2.67%;
+top: 33.33%;
+bottom: 33.33%;
+
+/* Black */
+background: #000000;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+
+/* Capacity */
+
+position: absolute;
+left: 8%;
+right: 20%;
+top: 19.45%;
+bottom: 19.44%;
+
+/* Black */
+background: #000000;
+border-radius: 1.33333px;
+
+
+/* Wifi */
+
+position: absolute;
+left: 29.41%;
+right: 39.71%;
+top: 6.25%;
+bottom: 0%;
+
+
+
+/* Wifi */
+
+position: absolute;
+width: 15.33px;
+height: 11px;
+right: 3px;
+top: 1.33px;
+
+/* Black */
+background: #000000;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 12.7%;
+right: 14.29%;
+top: 8.89%;
+bottom: 60%;
+
+background: #DADADA;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 25.4%;
+right: 26.98%;
+top: 33.33%;
+bottom: 42.22%;
+
+background: #DADADA;
+
+
+/* Wifi-path */
+
+position: absolute;
+left: 38.1%;
+right: 39.68%;
+top: 60%;
+bottom: 17.78%;
+
+background: #DADADA;
+
+
+/* Cellular Connection */
+
+position: absolute;
+width: 18px;
+height: 12px;
+right: 50px;
+top: 2px;
+
+
+
+/* Cellular Connection */
+
+position: absolute;
+width: 17px;
+height: 10.67px;
+right: 0.33px;
+top: 0.67px;
+
+/* Black */
+background: #000000;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 3.7%;
+right: 79.63%;
+top: 61.11%;
+bottom: 5.56%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 29.63%;
+right: 53.7%;
+top: 44.44%;
+bottom: 5.56%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 55.56%;
+right: 27.78%;
+top: 25%;
+bottom: 5.56%;
+
+background: #DADADA;
+
+
+/* Cellular_Connection-path */
+
+position: absolute;
+left: 81.48%;
+right: 1.85%;
+top: 5.55%;
+bottom: 5.56%;
+
+background: #DADADA;
+
+
+/* Time */
+
+position: absolute;
+width: 56px;
+height: 23px;
+left: 21px;
+top: 8px;
+
+
+
+/* Time */
+
+position: absolute;
+height: 18px;
+left: 0.33px;
+right: 1.67px;
+top: calc(50% - 18px/2 + 3.5px);
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.333333px;
+
+/* Black */
+color: #000000;
+
+
+/* Navigation Bar */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 11.08%;
+bottom: 78.08%;
+
+
+
+/* Actual Tips */
+
+position: absolute;
+width: 375px;
+height: 824px;
+left: 0px;
+top: -38px;
+
+
+
+/* ↳ Title */
+
+position: absolute;
+height: 22px;
+left: 140px;
+right: 152px;
+top: 311px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
+text-align: center;
+letter-spacing: -0.408px;
+
+color: #000000;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 217.05%;
+bottom: -117.61%;
+
+background: rgba(0, 0, 0, 0.3);
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 330.68%;
+bottom: -231.25%;
+
+background: rgba(0, 0, 0, 0.3);
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 400%;
+bottom: -300.57%;
+
+background: rgba(0, 0, 0, 0.3);
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 511.36%;
+bottom: -411.93%;
+
+background: rgba(0, 0, 0, 0.3);
+
+
+/* Group */
+
+position: absolute;
+width: 263px;
+height: 60px;
+left: 96px;
+top: 107px;
+
+
+
+/* Don’t forget to close your curtains before you leave! */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 148.86%;
+bottom: -89.77%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+/* or 138% */
+
+color: #000000;
+
+
+
+/* Day */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 121.59%;
+bottom: -42.05%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+
+/* image 5 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 16px;
+top: 107px;
+
+background: url(image.png);
+
+
+/* Keep the thermostat at 65F. */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 263.64%;
+bottom: -204.55%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+/* or 138% */
+
+/* Black */
+color: #000000;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 375px;
+height: 824px;
+left: 0px;
+top: -38px;
+
+
+
+/* 9:00 PM |Before Sleep| */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 236.36%;
+bottom: -156.82%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+
+/* Drink a hot beverage instead of cranking up your thermostat! */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 444.32%;
+bottom: -385.23%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+/* or 138% */
+
+color: #000000;
+
+
+
+/* Winter */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 417.05%;
+bottom: -337.5%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 217.05%;
+bottom: -117.61%;
+
+background: rgba(0, 0, 0, 0.3);
+
+
+/* image 6 */
+
+position: absolute;
+width: 58px;
+height: 58px;
+left: 76px;
+top: 214px;
+
+background: url(image.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* image 7 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 14px;
+top: 370px;
+
+background: url(image.png);
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 86.36%;
+bottom: 11.36%;
+
+background: rgba(0, 0, 0, 0.3);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* ↳ Title */
+
+position: absolute;
+height: 22px;
+left: 170px;
+right: 169px;
+top: 44px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
+text-align: center;
+letter-spacing: -0.408px;
+
+color: #000000;
+
+
+
+/* Navigation Bar */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 11.08%;
+bottom: 78.08%;
+
+
+
+/* Actual Tips */
+
+position: absolute;
+width: 383px;
+height: 824px;
+left: 0px;
+top: -38px;
+
+
+
+/* ↳ Title */
+
+position: absolute;
+height: 22px;
+left: 140px;
+right: 152px;
+top: 311px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
+text-align: center;
+letter-spacing: -0.408px;
+
+/* Black */
+color: #000000;
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 217.05%;
+bottom: -117.61%;
+
+background: rgba(0, 0, 0, 0.3);
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 330.68%;
+bottom: -231.25%;
+
+/* Dark Grey */
+background: #727272;
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 400%;
+bottom: -300.57%;
+
+/* Dark Grey */
+background: #727272;
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: -2.13%;
+top: 512.5%;
+bottom: -412.5%;
+
+/* Dark Grey */
+background: #727272;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+width: 263px;
+height: 60px;
+left: 96px;
+top: 107px;
+
+
+
+/* Don’t forget to close your curtains before you leave! */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 148.86%;
+bottom: -89.77%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+/* or 138% */
+
+/* Black */
+color: #000000;
+
+
+/* Day */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 121.59%;
+bottom: -42.05%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+
+/* image 5 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 16px;
+top: 107px;
+
+background: url(image.png);
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 375px;
+height: 824px;
+left: 0px;
+top: -38px;
+
+
+
+/* 9:00 PM |Before Sleep| */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 236.36%;
+bottom: -156.82%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+
+/* Winter */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 417.05%;
+bottom: -337.5%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 217.05%;
+bottom: -117.61%;
+
+/* Dark Grey */
+background: #727272;
+
+
+/* image 6 */
+
+position: absolute;
+width: 58px;
+height: 58px;
+left: 76px;
+top: 214px;
+
+background: url(image.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* image 7 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 14px;
+top: 370px;
+
+background: url(image.png);
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 86.36%;
+bottom: 11.36%;
+
+/* Dark Grey */
+background: #727272;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* ↳ Title */
+
+position: absolute;
+height: 22px;
+left: 170px;
+right: 169px;
+top: 44px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
+text-align: center;
+letter-spacing: -0.408px;
+
+color: #000000;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 39.77%;
+bottom: 59.66%;
+
+/* Dark Grey */
+background: #727272;
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 375px;
+height: 87px;
+left: 0px;
+top: 719px;
+
+background: #FDF7C0;
+
+
+/* Rectangle 32 */
+
+position: absolute;
+width: 375px;
+height: 87px;
+left: 0px;
+top: 725px;
+
+/* Light Yellow */
+background: #FDF7C0;
+
+
+/* Great Job! You’ve read 3 tips today! */
+
+position: absolute;
+width: 375px;
+height: 73px;
+left: 0px;
+top: 746px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 27px;
+text-align: center;
+
+color: #000000;
+

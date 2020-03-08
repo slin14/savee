@@ -1,0 +1,654 @@
+/* Week */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Base Slide */
+
+position: absolute;
+width: 375px;
+height: 812px;
+left: 0px;
+top: 0px;
+
+background: #F6FDFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Frame */
+
+position: absolute;
+width: 375px;
+height: 44px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 89.73%;
+right: 4.67%;
+top: 40.53%;
+bottom: 35.98%;
+
+opacity: 0.35;
+/* Black */
+border: 1px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 95.73%;
+right: 3.91%;
+top: 47.73%;
+bottom: 43.18%;
+
+background: #000000;
+opacity: 0.4;
+/* Black */
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.13%;
+right: 5.07%;
+top: 43.94%;
+bottom: 39.39%;
+
+/* Black */
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 84.18%;
+right: 11.73%;
+top: 39.39%;
+bottom: 35.61%;
+
+/* Black */
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.31%;
+right: 17.16%;
+top: 40.15%;
+bottom: 35.61%;
+
+/* Black */
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.83%;
+right: 83.03%;
+top: 39.02%;
+bottom: 35.78%;
+
+/* Black */
+background: #000000;
+
+
+/* Menu icon */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 15px;
+top: 49px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 15px;
+top: 49px;
+
+border: 5px solid #727272;
+box-sizing: border-box;
+border-radius: 30px;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 30px;
+height: 0px;
+left: 30px;
+top: 68px;
+
+border: 1px solid #727272;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 30px;
+height: 0px;
+left: 30px;
+top: 78px;
+
+border: 1px solid #727272;
+
+
+/* Line 3 */
+
+position: absolute;
+width: 30px;
+height: 0px;
+left: 30px;
+top: 90px;
+
+border: 1px solid #585758;
+
+
+/* Bottom Buttons */
+
+position: absolute;
+width: 316px;
+height: 58px;
+left: 29px;
+top: 729px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+left: 30.67%;
+right: 53.87%;
+top: 89.78%;
+bottom: 3.08%;
+
+/* Light Yellow */
+background: #FDF7C0;
+
+
+/* Ellipse 3 */
+
+position: absolute;
+left: 76.53%;
+right: 8%;
+top: 89.78%;
+bottom: 3.08%;
+
+/* Dark Yellow */
+background: #FCDA83;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 53.6%;
+right: 30.93%;
+top: 89.78%;
+bottom: 3.08%;
+
+/* Dark Yellow */
+background: #FCDA83;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+left: 7.73%;
+right: 76.8%;
+top: 89.78%;
+bottom: 3.08%;
+
+/* Dark Yellow */
+background: #FCDA83;
+
+
+/* D */
+
+position: absolute;
+left: 12.27%;
+right: 81.33%;
+top: 90.76%;
+bottom: 4.06%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+/* Black */
+color: #000000;
+
+
+/* W */
+
+position: absolute;
+left: 33.87%;
+right: 57.33%;
+top: 91.01%;
+bottom: 4.93%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+/* Black */
+color: #000000;
+
+
+/* M */
+
+position: absolute;
+left: 56.8%;
+right: 34.4%;
+top: 91.01%;
+bottom: 4.93%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+/* Black */
+color: #000000;
+
+
+/* Y */
+
+position: absolute;
+left: 79.73%;
+right: 11.47%;
+top: 91.01%;
+bottom: 4.93%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+/* Black */
+color: #000000;
+
+
+/* Arrows */
+
+position: absolute;
+width: 306px;
+height: 69px;
+left: 36px;
+top: 625px;
+
+
+
+/* Line 4 */
+
+position: absolute;
+width: 44.82px;
+height: 0px;
+left: 37px;
+top: 660px;
+
+/* Dark Grey */
+border: 2px solid #727272;
+transform: rotate(-51.34deg);
+
+
+/* Line 5 */
+
+position: absolute;
+width: 44.82px;
+height: 0px;
+left: 36px;
+top: 659px;
+
+/* Dark Grey */
+border: 2px solid #727272;
+transform: rotate(51.34deg);
+
+
+/* Line 6 */
+
+position: absolute;
+width: 44.82px;
+height: 0px;
+left: 341px;
+top: 660px;
+
+/* Dark Grey */
+border: 2px solid #727272;
+transform: matrix(-0.62, -0.78, -0.78, 0.62, 0, 0);
+
+
+/* Line 7 */
+
+position: absolute;
+width: 44.82px;
+height: 0px;
+left: 342px;
+top: 659px;
+
+/* Dark Grey */
+border: 2px solid #727272;
+transform: matrix(-0.62, 0.78, 0.78, 0.62, 0, 0);
+
+
+/* JANUARY 19 - MARCH 08 TOTAL ENERGY: 1,512 kWh */
+
+position: absolute;
+width: 205px;
+height: 43px;
+left: 89px;
+top: 641px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+/* Black */
+color: #000000;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 311px;
+height: 256px;
+left: 34px;
+top: 118px;
+
+background: rgba(255, 255, 255, 0.67);
+
+
+/* ENERGY USED: 210 kWh */
+
+position: absolute;
+width: 300px;
+height: 149px;
+left: 37px;
+top: 166px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+/* Black */
+color: #000000;
+
+
+/* Graph */
+
+position: absolute;
+width: 348px;
+height: 241px;
+left: 13px;
+top: 369px;
+
+
+
+/* Bars */
+
+position: absolute;
+width: 342px;
+height: 198px;
+left: 15px;
+top: 369px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 38px;
+height: 128px;
+left: 15px;
+top: 439px;
+
+/* Dark Yellow */
+background: #FCDA83;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 38px;
+height: 105px;
+left: 66px;
+top: 462px;
+
+/* Dark Yellow */
+background: #FCDA83;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 38px;
+height: 148px;
+left: 116px;
+top: 419px;
+
+/* Dark Yellow */
+background: #FCDA83;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 38px;
+height: 161px;
+left: 167px;
+top: 406px;
+
+/* Dark Yellow */
+background: #FCDA83;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 38px;
+height: 198px;
+left: 218px;
+top: 369px;
+
+/* Dark Yellow */
+background: #FCDA83;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 38px;
+height: 198px;
+left: 268px;
+top: 369px;
+
+/* Dark Yellow */
+background: #FCDA83;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 38px;
+height: 128px;
+left: 319px;
+top: 439px;
+
+/* Light Yellow */
+background: #FDF7C0;
+
+
+/* Words */
+
+position: absolute;
+width: 348px;
+height: 38px;
+left: 13px;
+top: 572px;
+
+
+
+/* JAN 20 - JAN 26 */
+
+position: absolute;
+width: 43px;
+height: 38px;
+left: 13px;
+top: 572px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* JAN 27 - FEB 2 */
+
+position: absolute;
+width: 43px;
+height: 38px;
+left: 65px;
+top: 572px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* FEB 3 - FEB 9 */
+
+position: absolute;
+width: 43px;
+height: 38px;
+left: 114px;
+top: 572px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* FEB 10 - FEB 16 */
+
+position: absolute;
+width: 46px;
+height: 18px;
+left: 163px;
+top: 572px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* FEB 17 - FEB 23 */
+
+position: absolute;
+width: 46px;
+height: 18px;
+left: 214px;
+top: 572px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* FEB 24 - MAR 01 */
+
+position: absolute;
+width: 46px;
+height: 18px;
+left: 264px;
+top: 572px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* MAR 02 - MAR 08 */
+
+position: absolute;
+width: 46px;
+height: 18px;
+left: 315px;
+top: 572px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #000000;
+
