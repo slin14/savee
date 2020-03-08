@@ -1,4 +1,4 @@
-/* Indiv Tips */
+/* Tips */
 
 position: relative;
 width: 375px;
@@ -8,13 +8,43 @@ background: #FFFFFF;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 
-/* Indiv Tip */
+/* Rectangle 30 */
+
+position: absolute;
+width: 375px;
+height: 87px;
+left: 0px;
+top: 725px;
+
+background: #FDF7C0;
+
+
+/* Great Job! You’ve read 3 tips today! */
+
+position: absolute;
+width: 375px;
+height: 50px;
+left: 0px;
+top: 757px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 27px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Home Page 1 */
 
 position: absolute;
 width: 375px;
 height: 812px;
 left: 0px;
-top: -2px;
+top: 0px;
 
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
@@ -167,7 +197,7 @@ opacity: 0.4;
 position: absolute;
 left: 8%;
 right: 20%;
-top: 19.45%;
+top: 19.44%;
 bottom: 19.44%;
 
 /* Black */
@@ -290,7 +320,7 @@ background: #DADADA;
 position: absolute;
 left: 81.48%;
 right: 1.85%;
-top: 5.55%;
+top: 5.56%;
 bottom: 5.56%;
 
 background: #DADADA;
@@ -327,82 +357,592 @@ letter-spacing: -0.333333px;
 color: #000000;
 
 
-/* Curtains 1 */
+/* Navigation Bar */
 
 position: absolute;
-width: 301px;
-height: 283px;
-left: 37px;
-top: 321px;
-
-background: url(Curtains.png);
+left: 0%;
+right: 0%;
+top: 11.08%;
+bottom: 78.08%;
 
 
-/* Curtains 2 */
 
-position: absolute;
-width: 301px;
-height: 283px;
-left: 37px;
-top: 321px;
-
-background: url(Curtains.png);
-
-
-/* Rectangle 27 */
+/* Actual Tips */
 
 position: absolute;
 width: 375px;
-height: 87px;
+height: 824px;
 left: 0px;
-top: 638px;
-
-background: #FDF7C0;
+top: -38px;
 
 
-/* Rectangle 29 */
+
+/* ↳ Title */
 
 position: absolute;
-width: 375px;
-height: 87px;
-left: 0px;
-top: 638px;
-
-background: #FDF7C0;
-
-
-/* Rectangle 30 */
-
-position: absolute;
-width: 375px;
-height: 87px;
-left: 0px;
-top: 638px;
-
-/* Light Yellow */
-background: #FDF7C0;
-
-
-/* Why? */
-
-position: absolute;
-width: 375px;
-height: 73px;
-left: 0px;
-top: 665px;
+height: 22px;
+left: 140px;
+right: 152px;
+top: 311px;
 
 font-family: Roboto;
 font-style: normal;
-font-weight: normal;
-font-size: 23px;
-line-height: 27px;
+font-weight: 500;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
 text-align: center;
+letter-spacing: -0.408px;
 
 color: #000000;
 
 
 
-/* Rectangle 28 */
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 217.05%;
+bottom: -117.61%;
+
+background: rgba(0, 0, 0, 0.3);
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 330.68%;
+bottom: -231.25%;
+
+background: rgba(0, 0, 0, 0.3);
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 400%;
+bottom: -300.57%;
+
+background: rgba(0, 0, 0, 0.3);
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 520.45%;
+bottom: -421.02%;
+
+background: rgba(0, 0, 0, 0.3);
+
+
+/* Group */
+
+position: absolute;
+width: 263px;
+height: 60px;
+left: 96px;
+top: 107px;
+
+
+
+/* Don’t forget to close your curtains before you leave! */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 148.86%;
+bottom: -89.77%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+/* or 138% */
+
+color: #000000;
+
+
+
+/* Day */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 121.59%;
+bottom: -42.05%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+
+/* image 5 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 16px;
+top: 107px;
+
+background: url(image.png);
+
+
+/* Remember to keep your thermostat around 18°C for a good sleep! */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 263.64%;
+bottom: -204.55%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+/* or 138% */
+
+/* Black */
+color: #000000;
+
+
+/* Remember that you don’t need the thermostat cranked up all the way to stay warm and cozy this winter! */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 442.05%;
+bottom: -382.95%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+/* or 138% */
+
+/* Black */
+color: #000000;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 375px;
+height: 824px;
+left: 0px;
+top: -38px;
+
+
+
+/* 9:00 PM |Before Sleep| */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 236.36%;
+bottom: -156.82%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+
+/* Winter */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 417.05%;
+bottom: -337.5%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 217.05%;
+bottom: -117.61%;
+
+background: rgba(0, 0, 0, 0.3);
+
+
+/* image 6 */
+
+position: absolute;
+width: 58px;
+height: 58px;
+left: 76px;
+top: 214px;
+
+background: url(image.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* image 7 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 14px;
+top: 370px;
+
+background: url(image.png);
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 86.36%;
+bottom: 11.36%;
+
+background: rgba(0, 0, 0, 0.3);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* ↳ Title */
+
+position: absolute;
+height: 22px;
+left: 170px;
+right: 169px;
+top: 44px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
+text-align: center;
+letter-spacing: -0.408px;
+
+color: #000000;
+
+
+
+/* Navigation Bar */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 11.08%;
+bottom: 78.08%;
+
+
+
+/* Actual Tips */
+
+position: absolute;
+width: 383px;
+height: 824px;
+left: 0px;
+top: -38px;
+
+
+
+/* ↳ Title */
+
+position: absolute;
+height: 22px;
+left: 140px;
+right: 152px;
+top: 311px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
+text-align: center;
+letter-spacing: -0.408px;
+
+/* Black */
+color: #000000;
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 217.05%;
+bottom: -117.61%;
+
+background: rgba(0, 0, 0, 0.3);
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 330.68%;
+bottom: -231.25%;
+
+/* Dark Grey */
+background: #727272;
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 400%;
+bottom: -300.57%;
+
+/* Dark Grey */
+background: #727272;
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: -2.13%;
+top: 514.77%;
+bottom: -414.77%;
+
+/* Dark Grey */
+background: #727272;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+width: 263px;
+height: 60px;
+left: 96px;
+top: 107px;
+
+
+
+/* Don’t forget to close your curtains before you leave! */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 148.86%;
+bottom: -89.77%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 18px;
+/* or 138% */
+
+/* Black */
+color: #000000;
+
+
+/* Day */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 121.59%;
+bottom: -42.05%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+
+/* image 5 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 16px;
+top: 107px;
+
+background: url(image.png);
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 375px;
+height: 824px;
+left: 0px;
+top: -38px;
+
+
+
+/* 9:00 PM |Before Sleep| */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 236.36%;
+bottom: -156.82%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+
+/* Winter */
+
+position: absolute;
+left: 25.6%;
+right: 4.27%;
+top: 417.05%;
+bottom: -337.5%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+
+color: #000000;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 217.05%;
+bottom: -117.61%;
+
+/* Dark Grey */
+background: #727272;
+
+
+/* image 6 */
+
+position: absolute;
+width: 58px;
+height: 58px;
+left: 76px;
+top: 214px;
+
+background: url(image.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* image 7 */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 14px;
+top: 370px;
+
+background: url(image.png);
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 86.36%;
+bottom: 11.36%;
+
+/* Dark Grey */
+background: #727272;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* ↳ Title */
+
+position: absolute;
+height: 22px;
+left: 170px;
+right: 169px;
+top: 44px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
+text-align: center;
+letter-spacing: -0.408px;
+
+color: #000000;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 39.77%;
+bottom: 59.66%;
+
+/* Dark Grey */
+background: #727272;
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 375px;
+height: 87px;
+left: 0px;
+top: 719px;
+
+background: #FDF7C0;
+
+
+/* Rectangle 32 */
 
 position: absolute;
 width: 375px;
@@ -410,17 +950,17 @@ height: 87px;
 left: 0px;
 top: 725px;
 
-/* Dark Yellow */
-background: #FCDA83;
+/* Light Yellow */
+background: #FDF7C0;
 
 
-/* Click for more tips */
+/* Great Job! You’ve read 1 tip today! */
 
 position: absolute;
 width: 375px;
 height: 73px;
 left: 0px;
-top: 752px;
+top: 746px;
 
 font-family: Roboto;
 font-style: normal;
@@ -431,22 +971,3 @@ text-align: center;
 
 color: #000000;
 
-
-
-/* Don’t forget to close your curtains before you leave */
-
-position: absolute;
-width: 290px;
-height: 401px;
-left: 37px;
-top: 135px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 40px;
-line-height: 47px;
-text-align: center;
-
-/* Black */
-color: #000000;
