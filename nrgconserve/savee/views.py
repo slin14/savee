@@ -28,7 +28,6 @@ def fetch_rankings(request):
     serializer = EnergySerializer(houses, many=True)
     return Response(serializer.data)
 
-<<<<<<< HEAD
 
 def main_home(request):
     """View function for home page of site."""
@@ -39,12 +38,3 @@ def main_home(request):
 
     # Render the HTML template index.html with the data in the context variable
     return render(request, 'Front End Elements/main_home.html', context=context)
-=======
-@api_view(['get'])
-def fetch_electricity_use(request):
-    houses = house.objects.all().filter(house_name="house1").order_by('-electricity_use')
-    serializer = EnergySerializer(houses, many=True)
-    #serializer = StateViewSet(serializer_class)
-    return Response(serializer.data[0])
-
->>>>>>> 56a0b4a44576f7ab048cae92212e05da3d954137
