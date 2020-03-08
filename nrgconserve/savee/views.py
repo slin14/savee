@@ -41,3 +41,14 @@ def main_home(request):
 
     # Render the HTML template index.html with the data in the context variable
     return render(request, '3-main_home.html', context=context)
+
+def day_history(request):
+    field_name = 'electricity_use'
+    house1dayA = house.objects.filter(house_name='house1', logged_date='2020-02-20').get()
+    house1dayB = house.objects.filter(house_name='house1', logged_date='2020-02-21').get()
+
+    context = {
+        'energy_use_Mon': getattr(house1DayA, field_name)
+        'energy_use_Tues': getattr(house1DayB, field_name)
+    }
+    return render(request, '4.1.1-day-history.html', context=context)
