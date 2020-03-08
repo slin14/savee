@@ -358,7 +358,7 @@ color: #000000;
 
 
 
-/* Click to conserve energy and decrease your bill! */
+/* Click to conserve energy and  reduce your cost! */
 
 position: absolute;
 width: 375px;
@@ -385,6 +385,7 @@ height: 332px;
 left: 89px;
 top: 109px;
 
+<<<<<<< HEAD
 background: url(image.png);
 
 #screen_image{
@@ -398,3 +399,6 @@ background: url(image.png);
     top: 0px;
     z-index: 3;
 }
+=======
+background: url(image.png);
+>>>>>>> 7139986d30cb135b468fffd4449ffe4c5a93200a
