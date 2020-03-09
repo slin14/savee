@@ -7,24 +7,150 @@ overflow: scroll;
 
 
 
-/* your bulb */
-
-position: absolute;
-width: 16px;
-height: 27px;
-left: 766px;
-top: 236px;
-
-background: url(image.png);
-
-
 /* Rectangle */
 
 position: absolute;
 width: 1288px;
 height: 1288px;
-left: -402px;
-top: -210px;
+left: -209px;
+top: -57px;
 
 background: url(.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* your bulb */
+
+position: absolute;
+width: 16px;
+height: 27px;
+left: 786px;
+top: 235px;
+
+background: url(image.png);
+
+
+/* your bulb */
+
+position: absolute;
+width: 23.59px;
+height: 40px;
+left: 401px;
+top: 663px;
+
+background: url(image.png);
+
+
+/* Frame 4 */
+
+position: absolute;
+width: 23px;
+height: 27px;
+left: 391px;
+top: 825px;
+
+
+
+/* other bulb 2 */
+
+position: absolute;
+width: 23.7px;
+height: 40px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Frame 5 */
+
+position: absolute;
+width: 23px;
+height: 27px;
+left: 375px;
+top: 209px;
+
+
+
+/* other bulb 2 */
+
+position: absolute;
+width: 23.7px;
+height: 40px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* other bulb 1 */
+
+position: absolute;
+width: 23.7px;
+height: 40px;
+left: 574px;
+top: 866px;
+
+background: url(image.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* other bulb 5 */
+
+position: absolute;
+width: 23.7px;
+height: 40px;
+left: 588px;
+top: 406px;
+
+background: url(image.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* other bulb 3 */
+
+position: absolute;
+width: 24px;
+height: 40px;
+left: 165px;
+top: 398px;
+
+background: url(image.png);
+
+
+/* other bulb 6 */
+
+position: absolute;
+width: 24px;
+height: 40px;
+left: 588px;
+top: 114px;
+
+background: url(image.png);
+
+
+/* other bulb 4 */
+
+position: absolute;
+width: 24px;
+height: 40px;
+left: 161px;
+top: 8px;
+
+background: url(image.png);
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 19px;
+height: 18px;
+left: 403px;
+top: 700px;
+
+background: #1A91D3;
+border: 3px solid #FFFFFF;
+box-sizing: border-box;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
